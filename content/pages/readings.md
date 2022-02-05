@@ -59,34 +59,459 @@ Mogilner, Alex, and George Ostery. "Force Generation by Actin Polymerization II:
 
 Orsello, Chase E., Douglas A. Lauffenburger, and Daniel A. Hammer. "Molecular Properties in Cell Adhesion: A Physical and Engineering Perspective." _TRENDS in Biotechnology_ 19, no. 8 (August 2001): 310-316.
 
-| SES # | {{< anchor "TOPICS" >}}{{< /anchor >}}TOPICS | READINGS |
-| --- | --- | --- |
-| L1 | _Introduction: From Tissue Biomechanics to Molecular Nanomechanics_ | &nbsp; |
-| {{< td-colspan 3 >}}**Molecular Mechanics**{{< /td-colspan >}} |||
-| L2 | _Length, Time and Forces in Biology  {{< br >}}  {{< br >}}_Molecules of Interest: DNA, Proteins, Actin, Peptides, Lipids  {{< br >}}  {{< br >}}Molecular Forces: Charges, Dipole, Van der Waals, Hydrogen Bonding  {{< br >}}  {{< br >}}_kT_ as Ruler of Molecular Forces  {{< br >}}  {{< br >}}Thermal Forces and Brownian Motion  {{< br >}}  {{< br >}}Life at Low Reynolds Number | Mahadevan, chapters on Molecular Mechanics from \[GKM-Text\].  {{< br >}}  {{< br >}}Daune.  {{< br >}}  {{< br >}}Dill, Chapter 6. |
-| L3 | _Thermodynamics and Elementary Statistical Mechanics  {{< br >}}  {{< br >}}_Review of Classical Thermodynamics: Entropy, Equilibrium, Open Systems, Ensembles, Boltzmann Distribution, Entropic Forces | Dill, Chapter 8. |
-| L4 | _Ideal Polymer Chains and Entropic Elasticity  {{< br >}}  {{< br >}}_Statistics of Random Walks - Freely Jointed Chain - Origins of Elastic Forces  {{< br >}}  {{< br >}}Extreme Extension of a FJC and Modeling Force as an Effective Potential Field | Boal.  {{< br >}}  {{< br >}}Mahadevan, chapters on Molecular Mechanics from \[GKM-Text\].  {{< br >}}  {{< br >}}Journal articles. |
-| L5 | _Persistent Chain Model and Cooperativity  {{< br >}}  {{< br >}}_The Worm-like Chain Model - Persistence Length as a Measure of Rigidity - Cooperativity Modeled using Ising Models  {{< br >}}  {{< br >}}_Examples_: Actin Length Fluctuations, Pulling on DNA and Synthetic Polymers | Dill, Chapter 10.  {{< br >}}  {{< br >}}Journal articles. |
-| L6 | _Mechano-Chemistry  {{< br >}}  {{< br >}}_Reactions and Chemical Equilibrium - Kramers/Eyring Rate Theories - Effect of Forces on Chemical Equilibrium  {{< br >}}  {{< br >}}_Examples_: Pulling on Titin, Bond Rupture Experiments | Howard, Chapter 5.  {{< br >}}  {{< br >}}Journal articles. |
-| L7 | _Motility at the Macromolecular Level  {{< br >}}  {{< br >}}_Forces by Polymerization - Concept of Equilibrium Force - Motor Proteins - Molecular Springs  {{< br >}}  {{< br >}}_Examples_: Listeria, Acto-myosin Motors, Kinesin, Vorticellid | Howard, Chapter 10.  {{< br >}}  {{< br >}}Journal articles. |
-| L8 | _Linear Elasticity  {{< br >}}  {{< br >}}_Continuum Mechanics - Basis of Linear Elasticity: Stress, Strain vs. Strain-rate, Hooke's Law, Experiments to Measure the Moduli | Ward. |
-| {{< td-colspan 3 >}}**Tissue Mechanics**{{< /td-colspan >}} |||
-| L9 | _Composition and Structure of the Extracellular Matrix (ECM)  {{< br >}}  {{< br >}}_Collagens, Proteoglycans, Elastin - Cellular Synthesis and Secretion of ECM Macromolecules - Cell-mediated Assembly of ECM | Lodish.  {{< br >}}  {{< br >}}Journal articles.  {{< br >}}  {{< br >}}Comper, W. D., ed. Extracellular Matrix. Collagen Superfamily, Proteoglycan Superfamily, and Elastin. |
-| L10 | _Pushing and Pulling on Molecules  {{< br >}}  {{< br >}}_Guest Lecturer: Prof. Matt Lang | &nbsp; |
-| L11 | _Elastic (Time-Independent) Behavior of Tissues  {{< br >}}  {{< br >}}_Stress and Strain in Tissues Modeled via Hookian Constitutive Law - Homogeneous/NonHomogeneous - Isotropic/Anisotropic - Linear/Nonlinear Behavior of Tissues and Relation to the ECM - Relation between Molecular Constituents and Macroscopic Tensile, Compressive, and Shear Properties of Connective Tissues | &nbsp; |
-| L12 | _Examples  {{< br >}}  {{< br >}}_Isotropic Cross-linked Gels Compared to Fibrous Tissues such as Arterial Wall, Cornea (Relevant to Corneal Dystrophy), Tendon, Ligament, Cartilage, Bone, Lung | Fung.  {{< br >}}  {{< br >}}Flory.  {{< br >}}  {{< br >}}Grodzinsky, "Time Dependent Mechanical Behavior of Hydrated Biological Tissues," from \[GKM-Text\].  {{< br >}}  {{< br >}}Journal articles. |
-| L13 | _Viscoelastic (Time-Dependent) Behavior of Tissues  {{< br >}}  {{< br >}}_Time-dependent Viscoelastic Behavior of Tissues as Single-phase Materials - Transient Behavior (Creep and Stress Relaxation) - Dynamic Behavior (Storage and Loss Moduli) - Lumped Parameter Models (Advantages and Limitations)  {{< br >}}  {{< br >}}_Examples_ | Journal articles.  {{< br >}}  {{< br >}}Ferry.  {{< br >}}  {{< br >}}Fung.  {{< br >}}  {{< br >}}Grodzinsky, "Time Dependent Mechanical Behavior of Hydrated Biological Tissues," from \[GKM-Text\]. |
-| L14 | _Viscoelastic (Time-Dependent) Behavior of Tissues (cont.)_ | &nbsp; |
-| L15 | _Poroelastic (Time-Dependent) Behavior of Tissues  {{< br >}}  {{< br >}}_The Role of Fluid/Matrix Interactions in Tissue Biomechanics - Darcy's Law and Hydraulic Permeability, Continuity, Conservation of Momentum - Creep, Stress Relaxation, Dynamic Moduli Revisited - Poro-viscoelastic Behavior  {{< br >}}  {{< br >}}_Examples_: Muscle and Soft Tissues in Health and Disease - e.g., Arthritis and Joint Degeneration | Journal articles.  {{< br >}}  {{< br >}}Grodzinsky, "Time Dependent Mechanical Behavior of Hydrated Biological Tissues," from \[GKM-Text\]. |
-| E1 | Midterm Quiz | &nbsp; |
-| L16 | _Poroelastic (Time-Dependent) Behavior of Tissues (cont.)_ | &nbsp; |
-| L17 | _Electromechanical and Physicochemical Properties of Tissues  {{< br >}}  {{< br >}}_Role of Electrical and Chemical Phenomena in Determining Tissue Biomechanical Behavior - Fluid Convection of Ions During Tissue Deformation and the Resulting "Electrokinetic" Phenomena - Electrostatic Interactions between Charged ECM  {{< br >}}  {{< br >}}Molecules: Tissue Swelling and Donnan Osmotic Swelling Pressure  {{< br >}}  {{< br >}}_Examples_: Bone, Muscle, Soft Connective Tissues -- Streaming Potentials and Electro-osmosis -- Tissue Swelling and Molecular Electromechanical Forces | Journal articles.  {{< br >}}  {{< br >}}Grodzinsky, "Time Dependent Mechanical Behavior of Hydrated Biological Tissues," from \[GKM-Text\]. |
-| L18 | _Muscle Constriction From the Molecular to Macro Scale  {{< br >}}  {{< br >}}_Characteristics of Contracting Muscle - Hill's Equation - Force-velocity Curves - Muscle Energetics, Activation - Cross-bridge Dynamics - Models for Muscle Behavior | Kamm, chapters on Cell Mechanics from \[GKM-text\]. |
-| {{< td-colspan 3 >}}**Cell Mechanics**{{< /td-colspan >}} |||
-| L19 | _Structure of the Cell  {{< br >}}  {{< br >}}_Cellular Anatomy, Cytoskeleton, Membrane, Types of Attachment to Neighboring Cells or the ECM, Receptors, Different Cell Types, Experimental Measurements of Mechanical Behavior |  Lodish. |
-| L20 | _Biomembranes  {{< br >}}  {{< br >}}_Stiffness and Role of Transmembrane Proteins - Equations for a 2-D Elastic Plate - Patch-clamp Experiments - Membrane Cortex - Vesicles: Model Systems | Kamm, chapters on Cell Mechanics from \[GKM-text\].  {{< br >}}  {{< br >}}Journal articles. |
-| L21 | _The Cytoskeleton  {{< br >}}  {{< br >}}_Fiber Microstructure - Actin and Microtubule Dynamics, Methods of Visualizing Actin Diffusion and Polymerization - Rheology of the Cytoskeleton - Active and Passive Measures of Deformation - Storage and Loss Moduli and their Measurements - Models of the Cytoskeleton: Continuum, Microstructural - Tensegrity, Cellular Solids, Polymer Solution | Lodish.  {{< br >}}  {{< br >}}Kamm, chapters on Cell Mechanics from \[GKM-text\]. |
-| L22 | _Cell Peeking and Poking  {{< br >}}  {{< br >}}_Guest Lecturer: Prof. Peter So | &nbsp; |
-| L23 | _The Cytoskeleton (cont.)_ | &nbsp; |
-| L24 | _Cell Adhesion and Aggregation  {{< br >}}  {{< br >}}_Cell Adhesion Assays, Cell-free Adhesion Assays - Receptor-ligand Interactions Mediated by the Cytoskeleton and the Cell Membrane - Focal Adhesions | Kamm, chapters on Cell Mechanics from \[GKM-text\].  {{< br >}}  {{< br >}}Journal articles. |
-| L25/E2 | _Cell Migration and Mechanotransduction  {{< br >}}  {{< br >}}_Measurement of Cell Motility (Speed, Persistence, "Diffusivity") - Simple Models for Cell Migration - Actin Filament Assembly/Crosslinking and Disassembly - Intracellular Signaling Relating to Physical Force - Molecular Mechanisms of Force Transduction - Force Estimates and Distribution within the Cell | Kamm, chapters on Cell Mechanics from \[GKM-text\].  {{< br >}}  {{< br >}}Orsello.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+{{< anchor "TOPICS" >}}{{< /anchor >}}TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+_Introduction: From Tissue Biomechanics to Molecular Nanomechanics_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Molecular Mechanics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+_Length, Time and Forces in Biology  
+  
+_Molecules of Interest: DNA, Proteins, Actin, Peptides, Lipids  
+  
+Molecular Forces: Charges, Dipole, Van der Waals, Hydrogen Bonding  
+  
+_kT_ as Ruler of Molecular Forces  
+  
+Thermal Forces and Brownian Motion  
+  
+Life at Low Reynolds Number
+{{< tdclose >}}
+{{< tdopen >}}
+Mahadevan, chapters on Molecular Mechanics from \[GKM-Text\].  
+  
+Daune.  
+  
+Dill, Chapter 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+_Thermodynamics and Elementary Statistical Mechanics  
+  
+_Review of Classical Thermodynamics: Entropy, Equilibrium, Open Systems, Ensembles, Boltzmann Distribution, Entropic Forces
+{{< tdclose >}}
+{{< tdopen >}}
+Dill, Chapter 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+_Ideal Polymer Chains and Entropic Elasticity  
+  
+_Statistics of Random Walks - Freely Jointed Chain - Origins of Elastic Forces  
+  
+Extreme Extension of a FJC and Modeling Force as an Effective Potential Field
+{{< tdclose >}}
+{{< tdopen >}}
+Boal.  
+  
+Mahadevan, chapters on Molecular Mechanics from \[GKM-Text\].  
+  
+Journal articles.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+_Persistent Chain Model and Cooperativity  
+  
+_The Worm-like Chain Model - Persistence Length as a Measure of Rigidity - Cooperativity Modeled using Ising Models  
+  
+_Examples_: Actin Length Fluctuations, Pulling on DNA and Synthetic Polymers
+{{< tdclose >}}
+{{< tdopen >}}
+Dill, Chapter 10.  
+  
+Journal articles.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+_Mechano-Chemistry  
+  
+_Reactions and Chemical Equilibrium - Kramers/Eyring Rate Theories - Effect of Forces on Chemical Equilibrium  
+  
+_Examples_: Pulling on Titin, Bond Rupture Experiments
+{{< tdclose >}}
+{{< tdopen >}}
+Howard, Chapter 5.  
+  
+Journal articles.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+_Motility at the Macromolecular Level  
+  
+_Forces by Polymerization - Concept of Equilibrium Force - Motor Proteins - Molecular Springs  
+  
+_Examples_: Listeria, Acto-myosin Motors, Kinesin, Vorticellid
+{{< tdclose >}}
+{{< tdopen >}}
+Howard, Chapter 10.  
+  
+Journal articles.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+_Linear Elasticity  
+  
+_Continuum Mechanics - Basis of Linear Elasticity: Stress, Strain vs. Strain-rate, Hooke's Law, Experiments to Measure the Moduli
+{{< tdclose >}}
+{{< tdopen >}}
+Ward.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Tissue Mechanics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+_Composition and Structure of the Extracellular Matrix (ECM)  
+  
+_Collagens, Proteoglycans, Elastin - Cellular Synthesis and Secretion of ECM Macromolecules - Cell-mediated Assembly of ECM
+{{< tdclose >}}
+{{< tdopen >}}
+Lodish.  
+  
+Journal articles.  
+  
+Comper, W. D., ed. Extracellular Matrix. Collagen Superfamily, Proteoglycan Superfamily, and Elastin.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+_Pushing and Pulling on Molecules  
+  
+_Guest Lecturer: Prof. Matt Lang
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+_Elastic (Time-Independent) Behavior of Tissues  
+  
+_Stress and Strain in Tissues Modeled via Hookian Constitutive Law - Homogeneous/NonHomogeneous - Isotropic/Anisotropic - Linear/Nonlinear Behavior of Tissues and Relation to the ECM - Relation between Molecular Constituents and Macroscopic Tensile, Compressive, and Shear Properties of Connective Tissues
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+_Examples  
+  
+_Isotropic Cross-linked Gels Compared to Fibrous Tissues such as Arterial Wall, Cornea (Relevant to Corneal Dystrophy), Tendon, Ligament, Cartilage, Bone, Lung
+{{< tdclose >}}
+{{< tdopen >}}
+Fung.  
+  
+Flory.  
+  
+Grodzinsky, "Time Dependent Mechanical Behavior of Hydrated Biological Tissues," from \[GKM-Text\].  
+  
+Journal articles.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+_Viscoelastic (Time-Dependent) Behavior of Tissues  
+  
+_Time-dependent Viscoelastic Behavior of Tissues as Single-phase Materials - Transient Behavior (Creep and Stress Relaxation) - Dynamic Behavior (Storage and Loss Moduli) - Lumped Parameter Models (Advantages and Limitations)  
+  
+_Examples_
+{{< tdclose >}}
+{{< tdopen >}}
+Journal articles.  
+  
+Ferry.  
+  
+Fung.  
+  
+Grodzinsky, "Time Dependent Mechanical Behavior of Hydrated Biological Tissues," from \[GKM-Text\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+_Viscoelastic (Time-Dependent) Behavior of Tissues (cont.)_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+_Poroelastic (Time-Dependent) Behavior of Tissues  
+  
+_The Role of Fluid/Matrix Interactions in Tissue Biomechanics - Darcy's Law and Hydraulic Permeability, Continuity, Conservation of Momentum - Creep, Stress Relaxation, Dynamic Moduli Revisited - Poro-viscoelastic Behavior  
+  
+_Examples_: Muscle and Soft Tissues in Health and Disease - e.g., Arthritis and Joint Degeneration
+{{< tdclose >}}
+{{< tdopen >}}
+Journal articles.  
+  
+Grodzinsky, "Time Dependent Mechanical Behavior of Hydrated Biological Tissues," from \[GKM-Text\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E1
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+_Poroelastic (Time-Dependent) Behavior of Tissues (cont.)_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+_Electromechanical and Physicochemical Properties of Tissues  
+  
+_Role of Electrical and Chemical Phenomena in Determining Tissue Biomechanical Behavior - Fluid Convection of Ions During Tissue Deformation and the Resulting "Electrokinetic" Phenomena - Electrostatic Interactions between Charged ECM  
+  
+Molecules: Tissue Swelling and Donnan Osmotic Swelling Pressure  
+  
+_Examples_: Bone, Muscle, Soft Connective Tissues -- Streaming Potentials and Electro-osmosis -- Tissue Swelling and Molecular Electromechanical Forces
+{{< tdclose >}}
+{{< tdopen >}}
+Journal articles.  
+  
+Grodzinsky, "Time Dependent Mechanical Behavior of Hydrated Biological Tissues," from \[GKM-Text\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+_Muscle Constriction From the Molecular to Macro Scale  
+  
+_Characteristics of Contracting Muscle - Hill's Equation - Force-velocity Curves - Muscle Energetics, Activation - Cross-bridge Dynamics - Models for Muscle Behavior
+{{< tdclose >}}
+{{< tdopen >}}
+Kamm, chapters on Cell Mechanics from \[GKM-text\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Cell Mechanics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+_Structure of the Cell  
+  
+_Cellular Anatomy, Cytoskeleton, Membrane, Types of Attachment to Neighboring Cells or the ECM, Receptors, Different Cell Types, Experimental Measurements of Mechanical Behavior
+{{< tdclose >}}
+{{< tdopen >}}
+ Lodish.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+_Biomembranes  
+  
+_Stiffness and Role of Transmembrane Proteins - Equations for a 2-D Elastic Plate - Patch-clamp Experiments - Membrane Cortex - Vesicles: Model Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Kamm, chapters on Cell Mechanics from \[GKM-text\].  
+  
+Journal articles.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+_The Cytoskeleton  
+  
+_Fiber Microstructure - Actin and Microtubule Dynamics, Methods of Visualizing Actin Diffusion and Polymerization - Rheology of the Cytoskeleton - Active and Passive Measures of Deformation - Storage and Loss Moduli and their Measurements - Models of the Cytoskeleton: Continuum, Microstructural - Tensegrity, Cellular Solids, Polymer Solution
+{{< tdclose >}}
+{{< tdopen >}}
+Lodish.  
+  
+Kamm, chapters on Cell Mechanics from \[GKM-text\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+_Cell Peeking and Poking  
+  
+_Guest Lecturer: Prof. Peter So
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+_The Cytoskeleton (cont.)_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+_Cell Adhesion and Aggregation  
+  
+_Cell Adhesion Assays, Cell-free Adhesion Assays - Receptor-ligand Interactions Mediated by the Cytoskeleton and the Cell Membrane - Focal Adhesions
+{{< tdclose >}}
+{{< tdopen >}}
+Kamm, chapters on Cell Mechanics from \[GKM-text\].  
+  
+Journal articles.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25/E2
+{{< tdclose >}}
+{{< tdopen >}}
+_Cell Migration and Mechanotransduction  
+  
+_Measurement of Cell Motility (Speed, Persistence, "Diffusivity") - Simple Models for Cell Migration - Actin Filament Assembly/Crosslinking and Disassembly - Intracellular Signaling Relating to Physical Force - Molecular Mechanisms of Force Transduction - Force Estimates and Distribution within the Cell
+{{< tdclose >}}
+{{< tdopen >}}
+Kamm, chapters on Cell Mechanics from \[GKM-text\].  
+  
+Orsello.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

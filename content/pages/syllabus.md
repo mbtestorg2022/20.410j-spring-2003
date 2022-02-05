@@ -79,12 +79,57 @@ Grading
 
 The term grade will be a weighted average of exams, term paper and homework grades. The weighting distribution will be:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Midterm Quiz | 30% |
-| Final | 30% |
-| Term Paper | 25% |
-| Homeworks | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term Paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homeworks
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Homework grading is intended to show you how well you are progressing in learning the course material. You are encouraged to seek advice or help from other students and/or to work in study groups. However, the work that is turned in must be your own. The homework exercise should be viewed as a learning experience, not a competition.
 
